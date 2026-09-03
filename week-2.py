@@ -123,7 +123,56 @@ x  | f(x)
 
 '''
 graph is done in desmos; it's a v-shaped graph with the vertex (center) at the (0, 0) origin
+
 why is it v-shaped? because the absolute value of a number is always positive, so the graph will always be above the x-axis
+
 so the line will be on the left if the y-axis is negative, and on the right if the y-axis is positive
 but it will never be on the bottom since the x-axis will always be positive
 '''
+
+'''
+Calculate the distance between the points in the coordinate plane
+'''
+
+E = (0,7)  and  M = (6,-1)
+
+# step one: use the distance formula to find the distance between the two points
+
+distance = √‾‾((x₂ - x₁)² + (y₂ - y₁)²)
+
+distance = √‾‾((6 - 0)² + (-1 - 7)²)
+         = √‾‾(6² + -8²)
+         = √‾‾(36 + 64)
+         = √‾‾100
+         = 10
+
+'''
+Calculate the distance between the two points
+'''
+
+G = (5,-9)  and  F = (8,-1)
+
+# step one: use the distance formula 
+
+distance = √‾‾((x₂ - x₁)² + (y₂ - y₁)²)
+
+distance = √‾‾((8 - 5)²  + (-1 - (-9))²)
+         = √‾‾(3² + (-1 + 9)²)
+         = √‾‾(9 + (8)²)
+         = √‾‾9 + 64
+         = √‾‾73
+         
+'''
+Calculate the distance between the two points
+'''
+
+L = (-7,-8)  and  H = (1,-1)
+
+# step one: use the distance formula 
+
+distance = √‾‾((x₂ - x₁)² + (y₂ - y₁)²)
+
+distance = √‾‾((1 - (-7))² + (-1 - (-8))²)
+         = √‾‾((1 + 7)² + (-1 + 8)²)
+         = √‾‾(64 + 49)
+         = √‾‾(113)
