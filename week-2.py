@@ -136,7 +136,7 @@ Calculate the distance between the points in the coordinate plane
 
 E = (0,7)  and  M = (6,-1)
 
-# step one: use the distance formula to find the distance between the two points
+#step one: use the distance formula to find the distance between the two points
 
 distance = √‾‾((x₂ - x₁)² + (y₂ - y₁)²)
 
@@ -152,7 +152,7 @@ Calculate the distance between the two points
 
 G = (5,-9)  and  F = (8,-1)
 
-# step one: use the distance formula 
+#step one: use the distance formula 
 
 distance = √‾‾((x₂ - x₁)² + (y₂ - y₁)²)
 
@@ -168,7 +168,7 @@ Calculate the distance between the two points
 
 L = (-7,-8)  and  H = (1,-1)
 
-# step one: use the distance formula 
+#step one: use the distance formula 
 
 distance = √‾‾((x₂ - x₁)² + (y₂ - y₁)²)
 
@@ -176,3 +176,88 @@ distance = √‾‾((1 - (-7))² + (-1 - (-8))²)
          = √‾‾((1 + 7)² + (-1 + 8)²)
          = √‾‾(64 + 49)
          = √‾‾(113)
+
+'''
+Evaluate
+'''
+-(-4)³  and  - (7)²
+
+
+-(-4)³ 
+-(-64)
+64
+
+-(7)²
+-(49)
+
+
+'''
+Solve for v; simplify your answer
+'''
+-4(v + 3)  =  4v + 28
+
+
+#step one: distribute -4 on left
+(-4v) + (-12)  =  4v + 28
+
+
+#step two: add 4v to both sides
+(4v) + (-4v) + (-12)  =  (4v) + 4v + 28
+
+
+#step three: combine like terms
+0 + (-12)  =  8v + 28
+
+
+#step four: divide both sides by 8
+(-12) / 8  =  ((8v) / 8) + (28 / 8) 
+
+
+#step five: reduce terms 
+(-3)/2  =  1v + (7/2)
+
+
+#step six: subtract (7/2) from both sides 
+((-3)/2) + ((-7)/2)  =  (1v + (7/2)) + ((-7)/2)
+
+((-10)/2)  =  1v
+
+
+#reduce
+(-5)/1  =  1v
+(-5)  =  v
+
+
+'''
+simplify
+'''
+((v)⁵ (u)⁷)  /  ((v)⁴ (u)¹)
+
+#v's expnts: 5 - 4 = 1
+#u's expnts: 7 - 1 = 6
+#this expnt subtraction removes the denominator
+
+(v)¹ (u)⁶
+v (u)⁶
+
+'''
+simplify
+'''
+((x)⁶ (z)⁴)  /  (x)⁶ (z)⁵
+
+#x's expnts: 6 - 6 = 0
+#z's expnts: 4 - 5 = (-1)
+
+(x)⁰ /  (z)⁻¹
+
+#(x)⁰ = 1
+#(z)⁻¹ = (1/z)
+
+1  /  (1/z)
+
+#multiply by reciprocal
+
+1  ×  (z/1)
+
+#multiplying by 1 and dividing by 1 do not change the value, so both can be removed
+z
