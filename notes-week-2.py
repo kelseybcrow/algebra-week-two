@@ -2,4 +2,6 @@
 
 |x| = -number  ~~  no solution
 
-#need all ALEKS problems unlocked
+(x)⁰ = 1
+(z)⁻¹ = (1/z¹) = (1/z)
+(b)⁻⁴ = (1/b⁴)

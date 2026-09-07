@@ -248,16 +248,205 @@ simplify
 #x's expnts: 6 - 6 = 0
 #z's expnts: 4 - 5 = (-1)
 
-(x)⁰ /  (z)⁻¹
+(x)⁰ (z)⁻¹ 
 
 #(x)⁰ = 1
 #(z)⁻¹ = (1/z)
 
-1  /  (1/z)
+1 (1 / z)
+1/z
 
-#multiply by reciprocal
+'''
+simplify
+'''
 
-1  ×  (z/1)
+((a)⁴ (b)²)  /  ((a)³ (b)⁶)
 
-#multiplying by 1 and dividing by 1 do not change the value, so both can be removed
-z
+#(a) 4 - 3 = 1
+#(b) 2 - 6 = (-4)
+
+(a)¹ (b)⁻⁴
+
+#(a) = (a) / 1
+#(b)⁻⁴ = (1/b⁴)
+((a) / 1) (1 / b⁴)
+
+#neither the 1 in the denominator of (a), nor the 1 in the numerator of (b⁴) is necessary. so we remove them and then we're left with (a) in the numerator and (b⁴) in the denominator
+(a) / b⁴
+
+'''
+simplify
+'''
+((b)⁶ (a)³)  /  ((b)⁷ (a))
+
+#(b) 6 - 7 = -1
+#(a) 3 - 1 = 2
+
+(b)⁻¹ (a)²
+
+#(b)⁻¹ = (1/b¹) = (1/b)
+#see note in line 274
+
+(a)² / (b)
+
+'''
+simplify
+'''
+((x)⁴ (z)⁵)  /  (3(x)⁴ (z)³)
+
+#(x)⁴ - (x)⁴ = (x)⁰ = (1)
+#(z)⁵ - (z)³ = (z)²
+
+((1) (z)²)  /  3
+(z)² / 3
+
+'''
+simplify
+'''
+
+((a)⁷ (b)⁶)  /  ((a) (b)⁴)
+
+#(a)⁷ - (a)¹ = (a)⁶
+#(b)⁶ - (b)⁴ = (b)²
+
+(a)⁶ (b)²
+
+'''
+simplify
+'''
+
+((b)⁷ (a))  /  ((b)⁶ (a)⁴)
+
+#(b)⁷ - (b)⁶ = (b)¹
+#(a)¹ - (a)⁴ = (a)⁻³    
+(b)¹ (a)⁻³
+
+#(a)⁻³ = (1 / a³)
+(b) / (a³)
+
+'''
+find the value
+'''
+³√‾‾8
+
+#what number = 8 after being cubed?
+#(2)³ = 8
+2
+
+'''
+find the value
+'''
+³√‾‾(-216)
+
+#what number = -216 after being cubed?
+#because the answer is negative, I need to cube a negative number
+#(-6)³ = -216
+-6
+
+'''
+rewrite w/out parentheses and simplify
+'''
+(x + 2)²
+
+#shortcut formula ---> 
+#square the first term +  double the product of the two terms + square the second term
+
+#(a + b)² = a² + 2ab + b²
+#a = x
+#b = 2
+
+(x)² + 2(x)(2) + (2)²
+(x)² + 4(x) + 4
+
+'''
+rewrite w/out parentheses and simplify
+'''
+(4u - 5)²
+
+#shortcut formula --->
+#square the first term - double the product of the two terms + square the second term
+
+#(a - b)² = a² - 2ab + b²
+#a = 4u
+#b = 5
+
+(4u)² - 2(4u)(5) + (5)²
+(16u²) - 2(20u) + 25
+(16u²) - 40u + 25
+
+'''
+rewrite w/out parentheses and simplify
+'''
+
+(2 + 3y)²
+(3y + 2)²
+
+#shortcut formula --->
+#square the first term + double the product of the two terms + square the second term
+
+#(a + b)² = a² + 2ab + b²   
+#a = 3y
+#b = 2
+
+(3y)² + 2(3y)(2) + (2)²
+(9y)² + 2(6y) + 4
+(9y)² + (12y) + 4
+
+'''
+simplify the square root of a whole number < 100
+'''
+
+√‾‾8
+
+#find the largest perfect square factor ---> 4
+8 = 4 * 2
+
+#rewrite square root of 8 as square root of 4 * 2
+√‾‾8  =  √‾‾(4 × 2)
+
+#separate the square roots
+√‾‾8  =  √‾‾4 * √‾‾2
+
+#simplify √‾‾4
+√‾‾8  =  2 * √‾‾2
+2 * √‾‾2
+
+'''
+simplify the square root of a whole number < 100
+'''
+√‾‾27
+
+#find the largest perfect square factor ---> 9
+27 = 9 * 3
+
+#rewrite square root of 27 as square root of (9 * 3)
+
+√‾‾27  =  √‾‾(9 * 3)  
+
+#separate the square roots
+√‾‾27  =  √‾‾9 * √‾‾3  
+
+#simplify √‾‾9
+√‾‾27  =  3 * √‾‾3
+3 * √‾‾3
+
+
+'''
+simplify the square root of a whole number < 100
+'''
+√‾‾32
+
+#find the largest perfect square factor ---> 16
+32 = 16 * 2
+
+#rewrite square root of 32 as square root of (16 * 2)
+
+√‾‾32  =  √‾‾(16 * 2)  
+
+#separate the square roots
+√‾‾32  =  √‾‾16 * √‾‾2  
+
+#simplify √‾‾16
+√‾‾32  =  4 * √‾‾2
+4 * √‾‾2
+
