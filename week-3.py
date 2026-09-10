@@ -95,8 +95,8 @@ negative exponent rule
 
 #it doesn't simplify further than this because 4 and 49 have no common factors
 
-
 '''
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 applying the power of 0 rule to various expressions
 '''
 - (6)⁰
@@ -116,8 +116,8 @@ power of 0 rule: anything nonzero raised to the power of 0 becomes 1
 
 #everything inside the parentheses (including the negative sign) is raised to the power of 0, so the whole thing becomes 1
 
-
 '''
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 applying the power of 0 rule to various expressions
 '''
 - (5 / 7)⁰
@@ -137,8 +137,8 @@ power of 0 rule: anything nonzero raised to the power of 0 becomes 1
 
 #everything inside the parentheses (including the negative sign) is raised to the power of 0, so the whole thing becomes 1
 
-
 '''
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 applying the power of 0 rule to various expressions
 '''
 4⁰
@@ -158,8 +158,8 @@ power of 0 rule: anything nonzero raised to the power of 0 becomes 1
 
 # everything inside the parentheses (including the negative sign) is raised to the power of 0, so the whole thing becomes 1
 
-
 '''
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 simplifying expressions with negative exponents
 '''
 (-2)⁻³
@@ -177,8 +177,8 @@ negative exponent rule
 1 / (-8) = 
 -(1 / 8)
 
-
 '''
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 simplifying expressions with negative exponents
 '''
 (-5)⁻²
@@ -197,8 +197,8 @@ negative exponent rule
 
 #it doesn't simplify further than this because 1 and 25 have no common factors
 
-
 '''
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 simplifying expressions with negative exponents
 '''
 (-3)⁻²
@@ -218,8 +218,8 @@ negative exponent rule
 -(1 / 27)
 #it doesn't simplify further than this because 1 and 27 have no common factors
 
-
 '''
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 simplifying expressions with negative exponents
 '''
 (-8)⁻²
@@ -237,8 +237,8 @@ negative exponent rule
     
 #it doesn't simplify further than this because 1 and 64 have no common factors
 
-
 '''
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 simplifying trinomials with negative coefficients, and variables raised to a power
 '''
 ((-4) * (y)² * (x))³ =
@@ -251,8 +251,8 @@ simplifying trinomials with negative coefficients, and variables raised to a pow
 
 #this can't be simplified further because there are no like terms or common factors
 
-
 '''
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 simplifying trinomials with negative coefficients, and variables raised to a power
 '''
 ((-7) * (y) * (x)³)² =
@@ -266,8 +266,8 @@ simplifying trinomials with negative coefficients, and variables raised to a pow
 
 #this can't be simplified further because there are no like terms or common factors
 
-
 '''
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 simplifying trinomials with negative coefficients, and variables raised to a power
 '''
 (2 * (w)² * (v)³)⁵ =
@@ -281,8 +281,8 @@ simplifying trinomials with negative coefficients, and variables raised to a pow
 
 #this can't be simplified further because there are no like terms or common factors
 
-
 '''
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 simplifying trinomials with negative coefficients, and variables raised to a power
 '''
 ((-5) * (u)² * (w))³
@@ -296,8 +296,8 @@ simplifying trinomials with negative coefficients, and variables raised to a pow
 
 #this can't be simplified further because there are no like terms or common factors
 
-
 '''
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 finding the degree and leading coefficient of a polynomial
 '''
 (6)(x)³ + (20)(x)⁸ + (-2) + (20)(x) =
@@ -311,8 +311,8 @@ finding the degree and leading coefficient of a polynomial
 #the degree is the power/exponent of the leading coefficient
 (8)
 
-
 '''
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 finding the degree and leading coefficient of a polynomial
 '''
 (-4)(w)⁷ + (20)(w)⁹ + (-w) + (-20)(w)⁸
