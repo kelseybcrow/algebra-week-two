@@ -305,7 +305,7 @@ finding the degree and leading coefficient of a polynomial
 #arrange the terms so the variables with exponents go from left to right in descending order
 (20)(x)⁸ + (6)(x)³ + (20)(x) + (-2) =
 
-#the leading coefficient is the first term in the polynomial when arranged in standard form
+#the leading coefficient is before the first term in the polynomial when arranged in standard form
 (20)
 
 #the degree is the power/exponent of the leading coefficient
@@ -320,8 +320,124 @@ finding the degree and leading coefficient of a polynomial
 #arrange the terms so the variables with exponents go from left to right in descending order
 (20)(w)⁹ + (-20)(w)⁸ + (-4)(w)⁷ + (-w)
 
-#the leading coefficient is the first term in the polynomial when arranged in standard form
+#the leading coefficient is before the first term in the polynomial when arranged in standard form
 (20)
 
 #the degree is the power/exponent of the leading coefficient
 (9)
+
+
+'''
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+finding the degree and leading coefficient of a polynomial
+'''
+18 + 2u + (-1)(u)⁸
+
+#arrange the terms so the variables with exponents go from left to right in descending order(20)(w)⁹ + (-20)(w)⁸ + (-4)(w)⁷ + (-w)
+(-1)(u)⁸ + 2u + 18
+
+#the leading coefficient is the first term in the polynomial when arranged in standard form
+(-1)
+
+#the degree is the power/exponent of the leading coefficient
+8
+
+
+'''
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+finding the degree and leading coefficient of a polynomial
+'''
+(-20)(w)⁷ + 15 + (-2)(w) + (-15)(w)⁸
+
+#arrange the terms so the variables with exponents go from left to right in descending order
+(-15)(w)⁸ + (-20)(w)⁷ + (-2)(w) + 15
+
+#the leading coefficient is before the first term in the polynomial when arranged in standard form
+(-15)
+
+#the degree is the power/exponent of the leading coefficient
+(8) 
+
+
+'''
+simplifying the square root of a perfect square monomial
+'''
+√‾‾((49)(w)⁴)
+
+#separate the square roots of each factor inside the radical
+#perfect squares: 4, 9, 16, 25, 36, 49, ...
+√‾‾(49) * √‾‾((w)⁴) =
+7 * (w)² 
+
+
+'''
+simplifying the square root of a perfect square monomial
+'''
+√‾‾((81)(z)¹⁰)
+
+#separate the square roots of each factor inside the radical
+#perfect squares: 4, 9, 16, 25, 36, 49, ...
+√‾‾(81) * √‾‾((z)¹⁰) =
+9 * (z)¹⁰/²
+
+#when you take the square root of a power, you divide the power by 2
+9 * (z)⁵ = 
+9z⁵
+
+
+'''
+simplifying the square root of a perfect square monomial
+'''
+√‾‾((16)(w)⁸)
+
+#separate the square roots of each factor inside the radical
+#perfect squares: 4, 9, 16, 25, 36, 49, ...
+√‾‾(16) * √‾‾((w)⁸) =
+4 * (w)⁸/²
+
+#when you take the square root of a power, you divide the power by 2
+4 * (w)⁴ = 
+4w⁴
+
+
+'''
+applying 'power of a power' rule and 'negative exponent' rule
+'''
+((x)⁵)⁻⁷
+
+#'power of a power' rule: multiply the exponents
+(x)⁵ * (⁻⁷) = 
+(x)⁻³⁵ = 
+
+#'negative exponent' rule: a⁻ⁿ = (1 / aⁿ)
+(1 / (x)³⁵)
+
+
+'''
+applying 'power of a power' rule and 'negative exponent' rule
+'''
+((u)⁻²)⁷
+
+#'power of a power' rule: multiply the exponents
+(u)⁻² * (⁷) = 
+(u)⁻¹⁴ = 
+
+#'negative exponent' rule: a⁻ⁿ = (1 / aⁿ)
+(1 / (u)¹⁴) 
+
+
+'''
+applying 'rules of exponents' rule and'power of a power' rule using fraction exponents
+'''
+(16)⁵/⁴ 
+
+(16)⁵/⁴ = 
+((16)¹/⁴)⁵ =
+
+#an exponent of (¹/⁴) means the exact same thing as taking the fourth root of a number
+(⁴√‾‾16)⁵ =
+
+#2 * 2 * 2 * 2 = 16
+(2)⁵ =
+32
+  
