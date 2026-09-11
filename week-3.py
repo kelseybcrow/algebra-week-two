@@ -441,3 +441,107 @@ applying 'rules of exponents' rule and'power of a power' rule using fraction exp
 (2)⁵ =
 32
   
+
+'''
+next problem
+'''
+(16)⁽³/²⁾ =
+((16)¹/²)³ =
+
+#an exponent of (¹/²) means the exact same thing as taking the square root of a number
+(√‾‾(16))³ =
+(4)³ =
+(64)
+
+'''
+next problem
+'''
+(64)⁽²/³⁾ =
+
+#use the 'power of a power' rule **backwards**:
+#for the power ⁽²/³⁾ we can write it as (¹/³) * (²):
+((64)¹/³) * (²) =
+((64)¹/³)²
+
+#an exponent of (¹/³) means the exact same thing as taking the cube root of a number:
+(³√‾‾64)² =
+(4)² =
+(16)
+
+'''
+power of a power rule, power of a product rule, and power of a quotient rule
+'''
+((-8)(a) / (b)³)² =
+((-8)(a))² / (b³)² =
+
+#square both the coefficient and the variable in the numerator:
+((-8)² * (a)²) / (b³)² =
+((64)(a)²) / (b³)² =
+
+#multiply the exponents:
+(64)(a)² / (b)⁶ =
+
+#submission version with no extra formatting:
+64a²/b⁶
+
+'''
+power of a power rule, power of a product rule, and power of a quotient rule
+'''
+((v)⁴ / (-4)(w)³)³ =
+
+#raise all terms inside the gold parenthesis to the power outside of it
+((v)⁴)³ / ((-4)³ * ((w)³)³) =
+
+#multiply the exponents:
+((v)¹²) / ((-64)(w)⁹) = 
+
+#move the negative sign to the numerator:
+-((v)¹²) / ((64)(w)⁹) = 
+
+#submission version with no extra formatting:
+-v¹²/64w⁹
+
+'''
+power of a power rule, power of a product rule, and power of a quotient rule
+'''
+((2)(x)⁴ / (y))⁵ =
+
+#raise all terms inside the gold parenthesis to the power outside of it
+((2)⁵ * ((x)⁴)⁵) / (y)⁵ =
+
+#multiply the exponents and evaluate the coefficient:
+((32)(x)²⁰) / (y)⁵ =
+
+#submission version with no extra formatting:
+32x²⁰/y⁵
+
+'''
+radical to exponent rule
+'''
+√‾‾17 =
+
+#a square root means raising the number to the power of (¹/²)
+(17)¹/² =
+
+#submission version with no extra formatting:
+17¹/²
+
+'''
+exponent to radical rule
+'''
+(t)³/⁴ =
+
+#the denominator (4) is the root index, and the numerator (3) is the exponent
+(⁴√‾‾(t))³  or  ⁴√‾‾(t³) 
+
+#either form is mathematically correct because the order of multiplication between the root and exponent does not change the result 
+
+'''
+exponent to radical rule
+'''
+(13)²/⁵ =
+
+#the denominator (5) is the root index, and the numerator (2) is the exponent
+(⁵√‾‾(13))²  or  ⁵√‾‾(13²) 
+
+#either form is mathematically correct because the order of multiplication between the root and exponent does not change the result 
